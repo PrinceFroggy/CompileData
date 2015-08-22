@@ -7,4 +7,6 @@ Used to compile text files for MSC.
 
 Enjoy.
 
-http://maplestory.nexon.net/
+Credits: Andrew Justin Solesa (https://github.com/Shrooms)
+
+References: http://maplestory.nexon.net/
